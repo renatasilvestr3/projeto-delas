@@ -1,4 +1,4 @@
-# :boom: Projeto Delas :boom:
+# :sparkles: Projeto Delas :sparkles:
 
 ### Qual problema o Delas visa solucionar?
  Muitas empreendedoras enfrentam a falta de uma plataforma que lhes permita oferecer seus serviços e alcançar um público-alvo mais amplo. Elas desejam expandir seus negócios e gerar mais oportunidades de emprego.
