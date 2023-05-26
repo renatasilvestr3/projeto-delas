@@ -18,7 +18,6 @@ const createEmpreendedoras = (req,res) => {
     })
 }
 
-
 module.exports = {
     getAllEmpreendedoras,
     createEmpreendedoras
