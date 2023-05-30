@@ -1,7 +1,13 @@
 const express = require ("express");
-const controller = require ("../controllers/empreendedoraControllers");
+const EmpreendedoraController = require ("../controllers/empreendedoraControllers");
+const empreendedoraController = require("../controllers/empreendedoraControllers");
 
 const router = express.Router();
 
-router.get("/", controller.getAllEmpreendedoras);
-router.post("/", controller.createEmpreendedoras);
+router
+.get("/", EmpreendedoraController.getAllEmpreendedoras)
+.post("/", EmpreendedoraController.createEmpreendedoras)
+.put("/:id", EmpreendedoraController.updateEmpreendedoras)
+.delete("/:id", EmpreendedoraController.deleteEmpreendedoras)
+
+module.exports = router;
