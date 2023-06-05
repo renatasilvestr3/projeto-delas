@@ -41,7 +41,7 @@ atualizado em: 14/06/2022
 disponível em:https://www.educamaisbrasil.com.br/educacao/noticias/mercado-de-trabalho-para-pessoas-trans
 
 
-### Estatisticas:
+### Dados que inspiraram o projeto:
 - A taxa de participação feminina no mercado de trabalho cresceu continuamente desde 2014 e atingiu 54,34%, em 2019. Em 2021, a porcentagem fechou em 51,56
 Fonte: Assessoria de Comunicação,Getúlio Vargas (FGV) e IBGE.
 Atualizado em: 24/10/2022 
