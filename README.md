@@ -1,45 +1,38 @@
 # :sparkles: Projeto Delas :sparkles:
 
-### Qual problema o Delas visa solucionar?
- Muitas empreendedoras enfrentam a falta de uma plataforma que lhes permita oferecer seus serviços e alcançar um público-alvo mais amplo. Elas desejam expandir seus negócios e gerar mais oportunidades de emprego.
+# Delas - Plataforma de Comércio Eletrônico para Empreendedoras
 
+## Objetivo do Projeto
 
-### Quais pessoas ou grupos são impactados por esse problema?
-Mulheres em situação de vulnerabilidade que buscam emprego ou desejam oferecer seus serviços, vendedoras autônomas, pequenas e médias empreendedoras, prestadores de serviços diversos e profissionais da área da saúde.
+O objetivo do projeto Delas é solucionar o problema enfrentado por muitas empreendedoras que buscam expandir seus negócios e alcançar um público-alvo mais amplo. Atualmente, essas mulheres enfrentam a falta de uma plataforma dedicada que lhes permita oferecer seus serviços e produtos de forma eficiente. O Delas visa preencher essa lacuna, fornecendo uma plataforma de comércio eletrônico exclusivamente voltada para empreendedoras, promovendo o empoderamento feminino e incentivando mulheres na liderança.
 
+## Problema e Público-alvo
 
-### Objetivo da plataforma: 
-O projeto tem como objetivo criar um site de comércio eletrônico que promova o empoderamento feminino e incentivando mulheres na liderança. Nele, empreendedoras do gênero feminino terão a oportunidade de cadastrar seus produtos e serviços, sem limitações quanto ao público-alvo, que pode ser qualquer pessoa. A plataforma abrangerá serviços de moda, beleza, saúde, bem-estar, alimentos e serviços.
+O problema impacta diversas pessoas e grupos, como mulheres em situação de vulnerabilidade que buscam emprego ou desejam oferecer seus serviços, vendedoras autônomas, pequenas e médias empreendedoras, prestadores de serviços diversos e profissionais da área da saúde. Essas mulheres encontram dificuldades em encontrar uma plataforma que atenda às suas necessidades específicas e lhes permita expandir seus negócios de forma igualitária.
 
+## Solução Proposta
 
-### Solução proposta: 
-A proposta é fornecer uma plataforma de comércio eletrônico que promova a união entre empreendedoras, incentivando a criação de novos negócios liderados por mulheres, ampliando a diversidade e promovendo oportunidades igualitárias. O projeto contribuirá para a geração de renda e valorização do trabalho das empreendedoras, tornando-se uma referência para o público empreendedor. Além disso, oferecerá aos clientes uma ampla gama de produtos e serviços.
+A solução proposta pelo Delas é o desenvolvimento de um site de comércio eletrônico que promova a união entre empreendedoras, incentivando a criação de novos negócios liderados por mulheres e ampliando a diversidade no mercado empreendedor. A plataforma permitirá que empreendedoras do gênero feminino cadastrem seus produtos e serviços sem restrições quanto ao público-alvo, alcançando qualquer pessoa interessada. Os serviços oferecidos na plataforma serão abrangentes, incluindo moda, beleza, saúde, bem-estar, alimentos e diversos outros setores.
 
+## Funcionamento da Plataforma
 
-### Tipo de plataforma: 
-E-commerce
+O Delas funcionará como um site de comércio eletrônico convencional, permitindo que empreendedoras cadastrem seus produtos e serviços, fornecendo informações detalhadas, como fotos, descrição, preço, opções de frete, localização e promoções. Os clientes terão acesso fácil a essas informações e poderão adquirir os produtos e serviços desejados diretamente pela plataforma. Além disso, o site contará com campos para sugestões e avaliações dos clientes, aprimorando a interação e a experiência do usuário.
 
+## Público-alvo e Abrangência
 
-### Para quem: 
-Mulheres empreendedoras
+A plataforma Delas será exclusivamente voltada para mulheres empreendedoras, proporcionando a elas um ambiente seguro e inclusivo para a promoção de seus negócios. No entanto, o público-alvo da plataforma abrange todas as pessoas interessadas em adquirir produtos e serviços oferecidos por empreendedoras. Com essa abordagem inclusiva, a plataforma busca fortalecer a presença feminina no mercado empreendedor e oferecer oportunidades igualitárias a todas.
 
+## Serviços Oferecidos
 
-### Público-alvo: 
-Todos os públicos
+A plataforma Delas oferecerá uma ampla gama de serviços, incluindo culinária, confeitaria, saúde, terapia, fisioterapia, consultas, beleza, estética, moda, calçados, acessórios, cosméticos, perfumaria e prestação de serviços em geral. Com essa variedade, a plataforma busca atender às diferentes necessidades e interesses dos clientes, ao mesmo tempo em
 
+ que promove os negócios das empreendedoras cadastradas.
 
-### Como funcionará: 
-O site de comércio eletrônico permitirá o cadastro de produtos e serviços, fornecendo informações detalhadas, como fotos, descrição, preço, opções de frete, localização e promoções. Dessa forma, os clientes poderão encontrar e adquirir facilmente os produtos e serviços desejados. Além disso, o site contará com campos para sugestões e avaliações dos clientes.
+## Diferenciais e Recursos Adicionais
 
-### Serviços oferecidos: 
-Culinária, confeitaria, saúde, terapia, fisioterapia, consultas, beleza, estética, moda, calçados, acessórios, cosméticos, perfumaria e prestação de serviços em geral.
+O Delas se destaca por oferecer recursos adicionais que promovem a união e a colaboração entre as empreendedoras. Uma das funcionalidades diferenciadas é a opção de "casadinha" de serviços de proprietárias diferentes, permitindo que os clientes adquiram serviços complementares e obtenham descontos especiais. Além disso, a plataforma incentivará a recomendação de produtos e serviços de outras empreendedoras, criando um ambiente de cooperação mútua. Essas características tornam o Delas uma referência no mercado empreendedor e reforçam a importância do empoderamento feminino no cenário empresarial atual.
 
-
-### Diferencial: 
-O site permitirá a opção de "casadinha" de serviços de proprietárias diferentes, permitindo que os clientes adquiram serviços complementares e obtenham descontos especiais. Além disso, será possível recomendar produtos e serviços de outras empreendedoras, promovendo a união e colaboração entre as empreendedoras. Revelando que em todas as condições a diferença de gênero ainda é alarmante e a desigualdade ainda reflete nos tempos atuais, dentro das companhias.
-atualizado em: 14/06/2022
-disponível em:https://www.educamaisbrasil.com.br/educacao/noticias/mercado-de-trabalho-para-pessoas-trans
-
+---
 
 ### Dados que inspiraram o projeto:
 - A taxa de participação feminina no mercado de trabalho cresceu continuamente desde 2014 e atingiu 54,34%, em 2019. Em 2021, a porcentagem fechou em 51,56
