@@ -11,7 +11,7 @@
 - [:dart: Objetivo](#-Objetivo)
 - [📁 Arquitetura do Projeto](#-Arquitetura-do-Projeto)
 - [👩🏾‍💻 Tecnologias e Dependências Utilizadas](#-Tecnologias-e-Dependências-Utilizadas)
-- [👩🏾‍🔧 Instalação](#-Instalação)
+- [:inbox_tray: Instalação](#-Instalação)
 - [:iphone: Interface Gráfica Para Realizar os Testes](#-Interface-Gráfica-Para-Realizar-os-Testes)
 - [🔓 Preparando o Ambiente Para Autenticação](#-Preparando-o-Ambiente-Para-Autenticação)
 - [🔐 Testando Rotas de Login e Rotas Com ou Sem Proteção](#-Testando-Rotas-de-Login-e-Rotas-Com-ou-Sem-Proteção)
@@ -35,10 +35,10 @@
 
 <br>
 
-Lembre-se que a arquitetura ao final do projeto precisa ficar exatamente dessa maneira. 
+:pushpin: Lembre-se que a arquitetura ao final do projeto precisa ficar exatamente dessa maneira. 
 
 ```
- 📁ENECRESCER
+ 📁projeto-delas
    |
    |--📁node_modules
    |
@@ -110,7 +110,7 @@ Link para a documentação:
 <img src= "#" width="500px" height="150"/>
 </p>
 
-## 👩🏾‍🔧 Instalação
+# :inbox_tray: Instalação
 
 <br>
 
