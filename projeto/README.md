@@ -27,9 +27,9 @@ A Plataforma Delas tem como objetivo principal fornecer um ambiente virtual de f
 Com uma interface intuitiva e amigável, visamos simplificar o processo de expansão dos negócios das empreendedoras, permitindo que elas se concentrem em oferecer serviços de qualidade e alcançar resultados positivos em suas atividades empreendedoras.
  
 ### Perfil de Empreendedora:
- Cada empreendedora possui um perfil personalizado na plataforma, onde pode fornecer informações detalhadas sobre si mesma, sua empresa e seus objetivos. Esse perfil serve como uma vitrine virtual para apresentar suas habilidades, experiências e conquistas, ajudando a estabelecer uma presença profissional no mercado.<br>
+ Cada empreendedora possui um perfil personalizado na plataforma, onde pode fornecer informações detalhadas sobre si mesma, sua empresa, seus produtos e objetivos. Esse perfil serve como uma vitrine virtual para apresentar suas habilidades, experiências e conquistas, ajudando a estabelecer uma presença profissional no mercado.<br>
 ### Perfil de Cliente: 
-Os clientes também podem criar um perfil na plataforma, fornecendo seus dados pessoais. Esses perfis de cliente permitem o acesso aos serviços oferecidos pelas empreendedoras e facilitam a pesquisa por categorias específicas por meio de filtros. Os clientes podem encontrar empreendedoras com base em suas necessidades e preferências, facilitando o processo de contratação de serviços.
+Os clientes também podem criar um perfil na plataforma, fornecendo seus dados pessoais. Esses perfis de clientes permitem o acesso aos serviços oferecidos pelas empreendedoras e facilitam a pesquisa por categorias específicas por meio de filtros. Os clientes podem encontrar empreendedoras com base em suas necessidades e preferências, facilitando o processo de contratação de serviços.
  <br>
 
 <br>
