@@ -5,7 +5,7 @@
 
 # <p align="center"> Senac | Porto Digital | Minas  <p>
 
-## Este é projeto Integrador do curso de aperfeiçoamento Backend | Turma 01  
+## Este é um projeto Integrador do curso de aperfeiçoamento Backend | Turma 01  
 <br>
 
 - [:dart: Objetivo](#-Objetivo)
