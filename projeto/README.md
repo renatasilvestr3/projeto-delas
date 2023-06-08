@@ -10,31 +10,34 @@
 
 - [:dart: Objetivo](#-Objetivo)
 - [📁 Arquitetura do Projeto](#-Arquitetura-do-Projeto)
-- [👩🏾‍💻 Tecnologias e Dependências Utilizadas](#-Tecnologias-e-Dependências-Utilizadas)
+- [:ledger: Tecnologias Utilizadas](#-Tecnologias-e-Dependências-Utilizadas)
+- [:bookmark: Pacotes Utilizados](#-Tecnologias-e-Dependências-Utilizadas)
 - [:inbox_tray: Instalação](#-Instalação)
 - [:iphone: Interface Gráfica Para Realizar os Testes](#-Interface-Gráfica-Para-Realizar-os-Testes)
-- [🔓 Preparando o Ambiente Para Autenticação](#-Preparando-o-Ambiente-Para-Autenticação)
-- [🔐 Testando Rotas de Login e Rotas Com ou Sem Proteção](#-Testando-Rotas-de-Login-e-Rotas-Com-ou-Sem-Proteção)
+- [:on: Testando Rotas](#-Testando-Rotas-de-Login-e-Rotas-Com-ou-Sem-Proteção)
 
 <br>
 <br>
 
 ## :dart: Objetivo
+A Plataforma Delas tem como objetivo principal fornecer um ambiente virtual de fácil utilização para empreendedoras expandirem seus negócios e alcançarem sucesso em suas jornadas empreendedoras. A plataforma permite que as empreendedoras cadastrem seus serviços e divulguem os produtos com os quais trabalham.<br>
+ 
+  Através da Plataforma, as empreendedoras terão acesso a uma gama de recursos e funcionalidades que visam aprimorar suas interações com os clientes e fortalecer suas estratégias de negócios. A plataforma busca criar um ambiente seguro e confiável para o desenvolvimento de relacionamentos profissionais e o crescimento das empreendedoras.<br>
 
-<br>
+Com uma interface intuitiva e amigável, visamos simplificar o processo de expansão dos negócios das empreendedoras, permitindo que elas se concentrem em oferecer serviços de qualidade e alcançar resultados positivos em suas atividades empreendedoras.
+ 
+### Perfil de Empreendedora:
+ Cada empreendedora possui um perfil personalizado na plataforma, onde pode fornecer informações detalhadas sobre si mesma, sua empresa e seus objetivos. Esse perfil serve como uma vitrine virtual para apresentar suas habilidades, experiências e conquistas, ajudando a estabelecer uma presença profissional no mercado.<br>
+### Perfil de Cliente: 
+Os clientes também podem criar um perfil na plataforma, fornecendo seus dados pessoais. Esses perfis de cliente permitem o acesso aos serviços oferecidos pelas empreendedoras e facilitam a pesquisa por categorias específicas por meio de filtros. Os clientes podem encontrar empreendedoras com base em suas necessidades e preferências, facilitando o processo de contratação de serviços.
+ <br>
 
-
-<br>
 <br>
 **[Apresentação do Projeto Final](#)**
 <br>
 <br>
-
-
-## 📁 Arquitetura do Projeto
-
+ <h3> 📁 Arquitetura do Projeto </h3>
 <br>
-
 :pushpin: Lembre-se que a arquitetura ao final do projeto precisa ficar exatamente dessa maneira. 
 
 ```
@@ -78,7 +81,7 @@
 <br>
 
 
-## 👩🏾‍💻 Tecnologias e Dependências Utilizadas
+##  :ledger: Tecnologias Utilizadas
 
 <br>
 
@@ -86,20 +89,20 @@
 | --- | --- |
 | `javascript` | Linguagem de programação. |
 | `node.js`    | Ambiente de execução do javascript.|
-| `express`    | Framework NodeJS. |
-| `mongoose`   | Dependência que interage com o MongoDB para a conexão da database, criação do model e das collections.|
-| `nodemon`    | Dependência que observa as atualizações realizadas nos documentos para rodar o servidor automaticamente.|
 | `npm`| Gerenciador de pacotes.|
 | `MongoDb`    | Banco de dados não relacional orietado a documentos.|
 | `Mongo Atlas`| Interface gráfica para verificar se os dados foram persistidos.|
 | `Postman` | Interface gráfica para realizar os testes.|
 
+ ## :bookmark: Pacotes Utilizadas
+ | Ferramenta | Descrição |
+ | --- | --- |
+| `express`    | Framework NodeJS. |
+| `mongoose`   | Dependência que interage com o MongoDB para a conexão da database, criação do model e das collections.|
+| `nodemon`    | Dependência que observa as atualizações realizadas nos documentos para rodar o servidor automaticamente.|
 <br>
-Link para a documentação:
 
-📝 [](#)
-
-📝 [](#)
+📝 [Link para a documentação:](https://github.com/DelisG/projeto-delas/blob/main/README.md)
 
 <br>
 <br>
@@ -110,11 +113,9 @@ Link para a documentação:
 <img src= "#" width="500px" height="150"/>
 </p>
 
-# :inbox_tray: Instalação
-
 <br>
 
-```ps
+````ps
 # Clonar o repositório
 $ git clone (https://github.com/DelisG/projeto-delas.git)
 
@@ -126,7 +127,7 @@ $ npm install
 
 # Executar o servidor para que você possa rodar o projeto localmente
 $ npm start
-```
+````
 <br>
 <br>
 
@@ -137,8 +138,8 @@ $ npm start
 
 📌 Este projeto está com os métodos HTTP organizados. Você pode testar as rotas Get, Post,Delete e Patch através de qualquer ferramenta cliente API REST, como Insomnia, Thunder Client, Postman, entre outros. Nesse projeto, utilizamos o [Postman](https://www.postman.com/downloads/). A interface é um CRUD.
 <br>
-<br>
-
+<br> 
+ <!---
 ▫️ Rota de criação de empreendedora
 <br>
 
@@ -170,94 +171,33 @@ $ npm start
 </p>
 <br>
 <br>
-
-
-## 🔐 Testando Rotas de Login e Rotas Com ou Sem Proteção
-
-<br>
-
+-->
+## :on: Testando Rotas
  📢 Todas as rotas existentes neste projeto:
 
-- Usuários
+ <h3> No usuário Empreendedora, os métodos e rotas serão:</h3>
 
-| Verbo  |   EndPoint     |        Descrição da Rota                   | Status | Auth |
-| ------ | -------------- | -------------------------------------------| ------ |----- |
-| POST   | /registration  | Adicionar um novo usuário                  |   201  |  ✔️  |
-| GET    | /search        | Listar todos os usuários                   |   200  |  ❌  |
-| DELETE | /delete/:id    | Remove um usuário                          |   200  |  ✔️  |
-| POST   | /login         | Devolve o token de um usuário              |   200  |  ✔️  |
+| Verbo  |   EndPoint         |         Descrição da Rota                               | 
+| ------ | ------------------ | --------------------------------------------------------| 
+| GET    | /empreendedoras    | Listar todas as empreendedoras cadastradas              |   
+| GET    | /:id               | Mostra o cadastro da empreendedora por ID               |  
+| POST   | /                  | Registra uma nova empreendedora                         |   
+| PUT    | /:id               | Altera dados da empreendedora identificada pelo id      |   
+| DELETE | /:id               | Remove o cadastro da empreendedora identificada pelo id |   
+
 <br>
+ <h3> No usuário cliente, os métodos e rotas serão:</h3>
 
-- Catálogo completo
-
-| Verbo  |   EndPoint      | Descrição da Rota                                            | Status | Auth |
-| ------ | --------------- | -------------------------------------------------------------| ------ |----- |
-| GET    | /catalog        | Lista todo o cátálogo do banco de dados, menos o de usuários |   201  |  ✔️  |
-<br>
-
-- Livros
-
-| Verbo  |   EndPoint          | Descrição da Rota                      | Status | Auth |
-| ------ | ------------------- | ---------------------------------------| ------ |----- |
-| GET    | /books              | Listar todos os filmes cadastrados     |   200  |  ❌  |
-| GET    | /book/title         | Mostra o cadastro do livro por título  |   200  |  ❌  |
-| GET    | /book/:id           | Mostra o cadastro do livro por ID      |   200  |  ❌  |
-| POST   | /books/registration | Registra um novo livro                 |   201  |  ✔️  |
-| PATCH  | /book/update/:id    | Altera alguma informação sobre o livro |   201  |  ✔️  |
-| DELETE | /book/delete/:id    | Remove o cadastro de um livro          |   200  |  ✔️  |
-<br>
-
-- Desenhos
-
-| Verbo  |   EndPoint             |         Descrição da Rota                         | Status | Auth |
-| ------ | ---------------------- | --------------------------------------------------| ------ |----- |
-| GET    | /cartoons              | Listar todos os desenhos cadastrados              |   200  |  ❌  |
-| GET    | /cartoon/title         | Mostra o cadastro do desenho por título           |   200  |  ❌  |
-| GET    | /cartoons/age          | Listar todos os desenhos por classificação etária |   200  |  ❌  |
-| GET    | /cartoon/:id           | Mostra o cadastro do desenho por ID               |   200  |  ❌  |
-| POST   | /cartoons/registration | Registra um novo desenho                          |   201  |  ✔️  |
-| PATCH  | /cartoon/update/:id    | Altera alguma informação sobre o desenho          |   201  |  ✔️  |
-| DELETE | /cartoon/delete/:id    | Remove o cadastro de um desenho                   |   200  |  ✔️  |
-<br>
-
-- Filmes
-
-| Verbo  |   EndPoint           |         Descrição da Rota                       | Status | Auth |
-| ------ | -------------------- | ------------------------------------------------| ------ |----- |
-| GET    | /movies              | Listar todos os filmes cadastrados              |   200  |  ❌  |
-| GET    | /movie/title         | Mostra o cadastro do filme por título           |   200  |  ❌  |
-| GET    | /movie/age           | Listar todos os filmes por classificação etária |   200  |  ❌  |
-| GET    | /movie/:id           | Mostra o cadastro do filme por ID               |   200  |  ❌  |
-| POST   | /movies/registration | Registra um novo filme                          |   201  |  ✔️  |
-| PATCH  | /movie/update/:id    | Altera alguma informação sobre o filme          |   201  |  ✔️  |
-| DELETE | /movie/delete/:id    | Remove o cadastro de um filme                   |   200  |  ✔️  |
-<br>
-
-- Séries
-
-| Verbo  |   EndPoint         |         Descrição da Rota                       | Status | Auth |
-| ------ | ------------------ | ------------------------------------------------| ------ |----- |
-| GET    | /series            | Listar todas as séries cadastradas              |   200  |  ❌  |
-| GET    | /serie/title       | Mostra o cadastro da série por título           |   200  |  ❌  |
-| GET    | /serie/age         | Listar todas as séries por classificação etária |   200  |  ❌  |
-| GET    | /serie/:id         | Mostra o cadastro da série por ID               |   200  |  ❌  |
-| POST   | /series/create     | Registra uma nova série                         |   201  |  ✔️  |
-| PATCH  | /series/update/:id | Altera alguma informação sobre a série          |   201  |  ✔️  |
-| DELETE | /serie/delete/:id  | Remove o cadastro de uma série                  |   200  |  ✔️  |
+| Verbo  |   EndPoint         |         Descrição da Rota                               | 
+| ------ | ------------------ | --------------------------------------------------------| 
+| GET    | /cliente           | Listar todas os clientes cadastrados                    |   
+| GET    | /:id               | Mostra o cadastro do cliente       por ID               |  
+| POST   | /                  | Registra um novo cliente                                |   
+| PUT    | /:id               | Altera dados do cliente identificado pelo id            |   
+| DELETE | /:id               | Remove o cadastro do cliente identificado pelo id       |   
 
 <br>
 
- *PROTEÇÃO* Para testar via Postman, passar bearer token no header de autenticação $ Bearer Token
-
-<br>
-<br>
-
-
-## 🧪 Teste Jest
-
-</br>
-
-<br>
 
 Projeto criado com a orientação e cuidado da Professora [Tereza Oliveira](https://github.com/devcode25))!<br>
 
