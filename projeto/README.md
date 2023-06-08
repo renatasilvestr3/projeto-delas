@@ -90,7 +90,7 @@ Os clientes também podem criar um perfil na plataforma, fornecendo seus dados p
 | `javascript` | Linguagem de programação. |
 | `node.js`    | Ambiente de execução do javascript.|
 | `npm`| Gerenciador de pacotes.|
-| `MongoDb`    | Banco de dados não relacional orietado a documentos.|
+| `MongoDb`    | Banco de dados não relacional orientado a documentos.|
 | `Mongo Atlas`| Interface gráfica para verificar se os dados foram persistidos.|
 | `Postman` | Interface gráfica para realizar os testes.|
 
@@ -179,7 +179,7 @@ $ npm start
 
 | Verbo  |   EndPoint         |         Descrição da Rota                               | 
 | ------ | ------------------ | --------------------------------------------------------| 
-| GET    | /empreendedoras    | Listar todas as empreendedoras cadastradas              |   
+| GET    | /empreendedoras    | Lista todas as empreendedoras cadastradas              |   
 | GET    | /:id               | Mostra o cadastro da empreendedora por ID               |  
 | POST   | /                  | Registra uma nova empreendedora                         |   
 | PUT    | /:id               | Altera dados da empreendedora identificada pelo id      |   
@@ -190,7 +190,7 @@ $ npm start
 
 | Verbo  |   EndPoint         |         Descrição da Rota                               | 
 | ------ | ------------------ | --------------------------------------------------------| 
-| GET    | /cliente           | Listar todas os clientes cadastrados                    |   
+| GET    | /cliente           | Lista todos os clientes cadastrados                    |   
 | GET    | /:id               | Mostra o cadastro do cliente       por ID               |  
 | POST   | /                  | Registra um novo cliente                                |   
 | PUT    | /:id               | Altera dados do cliente identificado pelo id            |   
