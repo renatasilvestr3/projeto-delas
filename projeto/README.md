@@ -3,10 +3,13 @@
 
 <p align="center"><b>Projeto Delas</b><p>
 
-# <p align="center"> Senac | Porto Digital | Minas  <p>
+## <p align="center"> Senac | Porto Digital | Minas  <p>
 
 ## Este é um projeto Integrador do curso de aperfeiçoamento Backend | Turma 01  
 <br>
+ 
+ ## Índice
+ <br>
 
 - [:dart: Objetivo](#-Objetivo)
 - [📁 Arquitetura do Projeto](#-Arquitetura-do-Projeto)
